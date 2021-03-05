@@ -1,0 +1,4 @@
+EDA
+1.import assignment files
+create a excel file,then transfer to a csv file(cannot use UTF-8)
+//you can found assignments in segment.xlsx

@@ -1,0 +1,21 @@
+PPT设置宏
+设置字体、字体大小、字体颜色。
+https://blog.csdn.net/wq6ylg08/article/details/90373790
+Sub OED01()
+Dim oShape As Shape
+Dim oSlide As Slide
+Dim oTxtRange As TextRange
+On Error Resume Next
+For Each oSlide In ActivePresentation.Slides
+   For Each oShape In oSlide.Shapes
+          Set oTxtRange = oShape.TextFrame.TextRange
+          If Not IsNull(oTxtRange) Then
+         With oTxtRange.Font
+             .Name = "微软雅黑"       '更改为需要的字体
+             .Size = 24       '改为所需的文字大小
+             .Color.RGB = RGB(Red:=0, Green:=0, Blue:=0) '改成想要的文字颜色，用RGB参数表示。这里代表黑色
+          End With
+          End If
+   Next
+   Next
+End Sub

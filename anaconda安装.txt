@@ -1,0 +1,12 @@
+anaconda安装
+https://cloud.tencent.com/developer/article/1349098
+    https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+    cd /tmp
+    curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+    bash Anaconda3-2020.11-Linux-x86_64.sh -u 
+    //连续输入两次yes yes
+anaconda环境管理
+https://blog.csdn.net/ytusdc/article/details/99699228
+    conda create -n xxxx python=3.5
+    conda activate xxxx
+    conda deactivate

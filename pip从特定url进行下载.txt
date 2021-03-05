@@ -1,0 +1,11 @@
+pip3 install raspios_full_armhf -i https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os-images/
+失败
+
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple numpy
+
+numpy可以改成任意你想要的模块
+
+apt-get install https://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os-images/raspios_full_armhf/
+
+试验后发现上交大源比清华源下载raspios_full_armhf更快

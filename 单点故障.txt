@@ -1,0 +1,50 @@
+单点故障
+目前联网系统已有的单点故障
+    火狐浏览器包揽了大部分爱好与兴趣与学院官方网页，其收藏夹没有整理备份存档，有一定的丢失风险。：已登录进行云备份
+    常用编辑器sublimetext3集成了基本上所有需要的功能，但是目前没有等价替代的文本编辑器，word不算，如果word也算文本编辑器的话那也太耻辱了，它还不如txt呢：试图使用vscode
+一些路径依赖造成的单点故障
+    试图减少常用app的使用比例，探索更多的同类/竞品app或网站
+    常用app
+        QQ
+        微博
+        微信
+            微信小程序
+        bilibili
+        QQ邮箱
+        支付宝
+        高德地图
+        网易云：已找到同类倒带
+        淘宝：已找到竞品京东、当当、拼多多
+        飞猪：已找到竞品12306
+        百度云：试图使用竞品蓝奏云/airportal/osdn软件下载
+    常用网站
+        随缘
+        CSDN：试图探索github/简书/StackOverflow/DZone
+            LeetCode/Wikipedia/Programcreek/开源中国
+            菜鸟教程/微信公众号/v2ex/segmenfault/
+        必应搜索
+        豆瓣
+        小马盘
+其他类型的单点故障
+相关网页链接
+    怎么在编程中找到快乐，并得到持久的动力？ //python- 七月在线 七仔的回答 - 知乎
+    https://www.zhihu.com/question/339068307/answer/849583723
+
+    你是如何开始能写 Python 爬虫？ - 朱卫军的回答 - 知乎
+    https://www.zhihu.com/question/21358581/answer/938126439
+
+    你写论文时发现了哪些非常神的网站？ - 一周进步的回答 - 知乎
+    https://www.zhihu.com/question/35931336/answer/943008326
+
+    最让你震惊的网站有哪些？ - 两个太阳的回答 - 知乎
+    https://www.zhihu.com/question/20030360/answer/1594007236
+
+    推荐6个鲜为人知的黑科技网站 - 木子淇的文章 - 知乎
+    https://zhuanlan.zhihu.com/p/51882269
+    
+    8个最新临时邮箱&临时电话，全方位保护你的隐私！ - 蓝衫轻科技的文章 - 知乎
+    https://zhuanlan.zhihu.com/p/138600873
+
+    写匿名邮件最好用哪个邮箱？就是对方收到邮件后却查不到发件者。 - 知乎
+    https://www.zhihu.com/question/23418181/answer/56106667
+    

@@ -1,0 +1,7 @@
+文件校验
+
+CertUtil -hashfile D:\Firefox\graphviz-2.44.0.tar.gz MD5
+CertUtil -hashfile D:\Firefox\graphviz-2.38.tar.gz SHA1
+CertUtil -hashfile D:\Firefox\graphviz-2.38.tar.gz SHA256
+
+git log | grep "c00d2b6acd3f"

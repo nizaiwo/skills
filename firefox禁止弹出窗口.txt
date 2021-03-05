@@ -1,0 +1,9 @@
+{
+    "policies":{
+        "DisableAppUpdate":true
+    }
+}
+下次当你想要手动更新firefox的版本时，只需要避免firefox读取policies.json中的规则即可，最简单的方式当然是暂时重命名这个文件，更新完毕之后在修改回来即可。
+当然，firefox内建的策略(Policies)功能不止于此，如果你想充分利用policies.json，请参考github中的这个页面，上面有详细的说明和示例：
+https://github.com/mozilla/policy-templates/blob/master/README.md
+来源地址：https://www.rjno1.com/disable-firefox-update/

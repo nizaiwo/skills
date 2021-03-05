@@ -1,0 +1,8 @@
+python版本优先级设置
+--数字越大，优先级越高
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 3
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+
+观察当前优先级设置
+update-alternatives --config python

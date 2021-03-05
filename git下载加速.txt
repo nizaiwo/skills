@@ -1,0 +1,35 @@
+bing搜索git clone速度太慢的解决方法
+
+
+https://www.cnblogs.com/qianshouxiuluo/p/11778559.html提供思路就是下载速度太慢
+https://www.jianshu.com/p/20f2186d9cbb提供换源思路
+https://www.cnblogs.com/likwo/p/6102428.html换源教程git修改源
+https://www.jianshu.com/p/3f6477049ece啰啰嗦嗦不管用
+
+https://blog.csdn.net/lemon4869/article/details/106849352    直接使用镜像网站进行下载，尽管安全性不能保证，但是速度快
+一分钟内下载文件完成，问题解决
+
+方案：从镜像站下载（https://github.com/RC1844/FastGithub网页中列举了一些镜像站！！下面是总结）
+
+
+github镜像站：
+
+https://github.com.cnpmjs.org
+一些软件速度较慢，10kps
+
+https://hub.fastgit.org
+相比上一个较快，500kps。克隆zip都有加速
+
+https://github-speedup.laiczhang.com
+克隆zip都有加速
+
+http://github-mirror.bugkiller.org
+据说已失效
+
+https://github.wuyanzheshui.workers.dev
+克隆无加速，zip有加速
+
+https://gitclone.com
+仅克隆有加速
+
+
