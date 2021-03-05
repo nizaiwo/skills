@@ -5,3 +5,4 @@ CertUtil -hashfile D:\Firefox\graphviz-2.38.tar.gz SHA1
 CertUtil -hashfile D:\Firefox\graphviz-2.38.tar.gz SHA256
 
 git log | grep "c00d2b6acd3f"
+git的文件校验码应该是SHA1或者MD5的前12位
