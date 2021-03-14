@@ -1,0 +1,10 @@
+进行密码学的学习方式：github寻找相关项目
+目前已经找到并加入收藏夹的项目
+python相关算法项目
+    内含多种机器学习等项目算法，在其中的hash一栏找到了很多现代密码学的算法
+    目前进度：md5.py
+    https://github.com/TheAlgorithms/Python/tree/master/hashes
+密码学学习笔记
+    介绍了相关理论，是很好的教学科普知识。并符有相关算法文件和练习
+    目前进度：看完了1，准备看2流密码
+    https://github.com/NB-STAR/crypto/tree/master/study/cryptography-basic
